@@ -1,5 +1,10 @@
 # AllStarCaster-shrek
-<h3>Demonstration Video:</h3>
-https://www.instagram.com/p/BYjlzlfnbs5/
 
-OpenFrameworks code to display shrek in my AllStarCaster
+<h2> What is the AllStarCaster?</h2>
+A visually reactive guitar that responds to your playing in real time.
+
+<h2> What is this repo for?</h2>
+Displaying an audio reactive image of shrek onto anything
+
+<h2>Demonstration Video:</h2>
+https://www.instagram.com/p/BYjlzlfnbs5/
