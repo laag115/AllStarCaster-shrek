@@ -1,6 +1,6 @@
 # AllStarCaster-shrek
 
-<h2> What is the AllStarCaster?</h2>
+<h3> What is the AllStarCaster?</h2>
 A visually reactive guitar that responds to your playing in real time.
 
 <h3> What is this repo for?</h3>
